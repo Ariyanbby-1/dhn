@@ -24,7 +24,7 @@ module.exports = {
 🌐 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗚𝗜𝗧𝗛𝗨𝗕
 Fork chaile cdum
 ━━━━━━━━━━━
-https://i.imgur.com/g4LLkZJ.jpeg
+https://github.com/Ariyanbby-1/Aruuhv.git
 ━━━━━━━━━━
 Fork chas kn bukacuda 
 ✦━━━━━━━━━✦
