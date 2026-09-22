@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": " ^⁠_^𝗔_𝗥_𝗜_𝗬_𝗔_⁠𝗡^_^ 𝐁𝐁'𝐙 ",
+  "nickNameBot": "  ",
   "prefix": ".",
   "enableTypingIndicator": true,
   "typingDuration": 2000,
@@ -32,7 +32,7 @@
   "adminBot": [
     "61582149885357",
     "100062655705183",
-       ""  
+    "100062655705183"  
   ],
   "reactUnsend": {
     "enable": true,
@@ -47,7 +47,7 @@
     "enable": false,
     "whiteListIds": [
       "61582149885357",
-      ""
+      "100062655705183"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
